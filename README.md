@@ -1,3 +1,7 @@
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
 <h1 data-importer="text" align="left">welcome</h1>
 
 ###
@@ -10,7 +14,7 @@
 
 ###
 
-<p data-importer="text" align="left">full stack desktop applications<br>backend developer</p>
+<p data-importer="text" align="center">full stack desktop applications<br>backend developer</p>
 
 ###
 
@@ -36,6 +40,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://syntaxminds.com/wp-content/uploads/2024/09/Career-Scope-for-Full-Stack-Developers.webp"  />
 </div>
 
 ###
